@@ -1,0 +1,27 @@
+START
+
+ Is The Pet Hungry?
+   Seclect Food Type
+     Prepare Food
+        Feed The Pet
+
+ If The Pet Satisfied 
+   Then Select Food Type
+     Done
+
+  ELSE
+   REPEAT
+  ENDIF
+
+ CLEAN UP
+END
+
+
+MEMBERS:
+JHON LAWRENCE C. CABOLBOL
+HAROLD DERENCE C. CANOY
+LUIE MARIE DELOS REYES
+PAULA MINISTER
+ANSARY ASIS
+JHON IAN IBARRA
+RONZ ALIPZ
